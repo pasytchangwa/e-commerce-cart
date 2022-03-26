@@ -6,7 +6,7 @@
 
 ![cartbag](cartbag.PNG)
 
-[LIVE DEMO](https://stripe-app-syl.netlify.app/)
+[LIVE DEMO](https://e-commerce-cart-syl.netlify.app/)
 
 ## Built With
 
