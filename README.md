@@ -4,7 +4,7 @@
 
 > Simple project for hooks and general revision in React
 
-![cart](cart.PNG)
+![cartbag](cartbag.PNG)
 
 [LIVE DEMO](https://stripe-app-syl.netlify.app/)
 
